@@ -1,29 +1,32 @@
 font:
-    svg:        font/example-font.svg
-    ttf:        font/example-font.ttf
-    eot:        font/example-font.eot
-    woff:       font/example-font.woff
-    css:        font/example-font.css
-    html:       font/example-font.html
-    name:       example
-    prefix:     example
-    fixedwidth: true
+    svg:        font/comicsyns.svg
+    ttf:        font/comicsyns.ttf
+    eot:        font/comicsyns.eot
+    woff:       font/comicsyns.woff
+    css:        font/comicsyns.css
+    html:       font/comicsyns.html
+    name:       ComicSyns
+    prefix:     ComicSyns
+    fixedwidth: false
     height:     1000
-    descent:    150
+    descent:    350
     normalize:  true
     center:     true
     round:      10e12
 glyphs:
-    - glyph:    glyphs-stroketopath/a.svg
-      name:     lowercase-a
-      code:     0x0061
-    - glyph:    glyphs-stroketopath/b.svg
-      name:     lowercase-b
-      code:     0x0062
-    - glyph:    glyphs-stroketopath/c.svg
-      name:     lowercase-c
+    - glyph:    glyphs-stroketopath/line.svg
+      name:     line
+      code:     0x005F
+    - glyph:    glyphs-stroketopath/promoter.svg
+      name:     promoter
+      code:     0x0070
+    - glyph:    glyphs-stroketopath/rbs.svg
+      name:     rbs
+      code:     0x0072
+    - glyph:    glyphs-stroketopath/cds.svg
+      name:     cds
       code:     0x0063
-    - glyph:    glyphs-stroketopath/d.svg
-      name:     lowercase-d
-      code:     0x0064
+    - glyph:    glyphs-stroketopath/terminator.svg
+      name:     terminator
+      code:     0x0074
 

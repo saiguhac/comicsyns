@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="1000"
-   width="750"
+   width="1000"
    version="1.1"
    id="svg2"
-   sodipodi:docname="b.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="rbs.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="699"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.472"
@@ -48,9 +48,9 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 575.00104,650 -175,-175 H 175 V 175 l 0.001,650 h 225 z"
-     id="path8"
+     style="fill:none;stroke:#000000;stroke-width:50;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 800,649.99999 c 0,-107.17968 -57.17968,-206.21778 -150,-259.80762 -92.82033,-53.58984 -207.17968,-53.58984 -300.00001,0 C 257.17967,443.78221 199.99999,542.82032 200,650 l -200,-10e-6 h 500 500 z"
+     id="path4520"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     sodipodi:nodetypes="cssccccc" />
 </svg>
